@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Feb 2022 14:29:17 at https://workupload.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://workupload.com/ -O1 "C:\My Web Sites\Work" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:29:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://workupload.com/favicon/apple-touch-icon.png (from https://workupload.com/)
+14:29:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://workupload.com/favicon/favicon-32x32.png (from https://workupload.com/)
+14:29:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://workupload.com/bundles/app/img/workupload_logo_medium.svg (from https://workupload.com/)
+14:29:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://workupload.com/bundles/app/img/workupload_logo_small.svg (from https://workupload.com/)
+14:29:41	Error: 	"Not Found" (404) at link https://workupload.com/fonts/glyphicons-halflings-regular.eot (from https://workupload.com/css/4280ebd.css?v=KUUBLAOP)
+14:29:41	Error: 	"Not Found" (404) at link https://workupload.com/fonts/glyphicons-halflings-regular.eot? (from https://workupload.com/css/4280ebd.css?v=KUUBLAOP)
+14:29:41	Error: 	"Not Found" (404) at link https://workupload.com/fonts/glyphicons-halflings-regular.svg (from https://workupload.com/css/4280ebd.css?v=KUUBLAOP)
+14:29:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://workupload.com/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://workupload.com/css/4280ebd.css?v=KUUBLAOP)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 59 links scanned, 50 files written (2673144 bytes overall) [1818367 bytes received at 72734 bytes/sec], 1254495 bytes transferred using HTTP compression in 26 files, ratio 27%, 8.1 requests per connection
+(3 errors, 5 warnings, 0 messages)
